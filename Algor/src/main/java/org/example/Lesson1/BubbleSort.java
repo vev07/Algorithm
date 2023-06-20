@@ -3,6 +3,7 @@ package org.example.Lesson1;
 import java.util.Arrays;
 
 public class BubbleSort {
+    //difficulty O(n^2)
     public static void main(String[] args) {
         int[]num = {1,14,6,3,2,10};
         //bubbleSort(num);
