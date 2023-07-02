@@ -7,6 +7,7 @@ public class Main3 {
         int[] arr = {3,2,4,5,1,8};
         System.out.println(Arrays.toString(mergeSort(arr)));
 
+
     }
     public static int[] mergeSort(int[] arr){
         if (arr.length<=1)
